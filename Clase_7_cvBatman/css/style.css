@@ -29,6 +29,11 @@ h2{
 .fecha{
     font-weight: bold;
 }
+li{
+    display: flex;
+    align-items:baseline;
+    padding-left: 2%;
+}
 footer{
     background-color: #005677;
     text-align: center;
